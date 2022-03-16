@@ -23,13 +23,13 @@ Dando inicio aos estudos, resolvi separar por categorias os meus avanços nos es
             <tr>
                 <td align="center">1</td>
                 <td>Olá mundo!</td>
-                <td><a href="https://github.com/lucas8calderon/Logica_de_Programacao/blob/main/Pasta%201/Ola_Mundo.md">Código</a></td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Visualg/ola_mundo.ALG">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Subtração</td>
-                <td><a href="https://github.com/lucas8calderon/Kotlin/blob/main/pasta1/README.md">Código</a></td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Visualg/SUBTRACAO.ALG">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
@@ -41,43 +41,43 @@ Dando inicio aos estudos, resolvi separar por categorias os meus avanços nos es
             <tr>
                 <td align="center">4</td>
                 <td>Multiplicação</td>
-                <td><a href="https://github.com/lucas8calderon/Logica_de_Programacao/blob/main/Pasta%201/Multiplicacao.md">Código</a></td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Visualg/MULTIPLICACAO.ALG">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">5</td>
                 <td>Divisão</td>
-                <td><a href="https://github.com/lucas8calderon/Logica_de_Programacao/blob/main/Pasta%201/Divisao.md">Código</a></td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Visualg/DIVISAO.ALG">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">6</td>
                 <td>Média Ponderada</td>
-                <td><a href="https://github.com/lucas8calderon/Logica_de_Programacao/blob/main/Pasta%201/media_aluno.md">Código</a></td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Visualg/MEDIA_PONDERADA.ALG">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">7</td>
                 <td>Inverter Nomes</td>
-                <td><a href="https://github.com/lucas8calderon/Logica_de_Programacao/blob/main/Pasta%201/Inverternomes.md">Código</a></td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Visualg/INVERTENOME.ALG">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">8</td>
                 <td>Times</td>
-                <td><a href="https://github.com/lucas8calderon/Logica_de_Programacao/blob/main/Pasta%201/Times.md">Código</a></td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Visualg/TIMES.ALG">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">9</td>
                 <td>Jogo da Velha</td>
-                <td><a href="https://github.com/lucas8calderon/Logica_de_Programacao/blob/main/Pasta%201/Jogo_Velha.md">Código</a></td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Visualg/jogo_velha.ALG">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">10</td>
                 <td>Calendario</td>
-                <td><a href="https://github.com/lucas8calderon/Logica_de_Programacao/blob/main/Pasta%201/Calendario.md">Código</a></td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Visualg/CALENDARIO.ALG">Código</a></td>
                 <td align="center">✅</td>
             </tr>
                 </table>
