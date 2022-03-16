@@ -175,61 +175,61 @@ Dando inicio aos estudos, resolvi separar por categorias os meus avanços nos es
             <tr>
                 <td align="center">1</td>
                 <td>Calcular o Circulo</td>
-                <td><a href="https://github.com/acenelio/curso-algoritmos/blob/master/visualg/circulo.alg">Código</a></td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Estrutura%20Sequencial/CIRCULO.ALG">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Combustivel</td>
-                <td><a href="https://github.com/lucas8calderon/Logica_de_Programacao/blob/main/Pasta%203/Combustivel.md">Código</a></td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Estrutura%20Sequencial/COMBUSTIVEL.ALG">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Duração</td>
-                <td><a href="https://github.com/lucas8calderon/Logica_de_Programacao/blob/main/Pasta%203/Troco.md">Código</a></td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Estrutura%20Sequencial/DURACAO.ALG">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                      <td align="center">4</td>
                 <td>Media de Idades</td>
-                <td><a href="https://github.com/lucas8calderon/Logica_de_Programacao/blob/main/Pasta%203/Media_Idades.md">Código</a></td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Estrutura%20Sequencial/MEDIA_PONDERADA.ALG">Código</a></td>
                 <td align="center">✅</td>
               </tr>
             <tr>
                 <td align="center">5</td>
                 <td>Medidas</td>
-                <td><a href="https://github.com/lucas8calderon/Logica_de_Programacao/blob/main/Pasta%203/Medidas.md">Código</a></td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Estrutura%20Sequencial/MEDIDAS.ALG">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">6</td>
                 <td>Pagamento</td>
-                <td><a href="https://github.com/lucas8calderon/Logica_de_Programacao/blob/main/Pasta%203/Pagamento.md">Código</a></td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Estrutura%20Sequencial/PAGAMENTO.ALG">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">7</td>
                 <td>Retangulo</td>
-                <td><a href="https://github.com/lucas8calderon/Logica_de_Programacao/blob/main/Pasta%203/Retangulo.md">Código</a></td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Estrutura%20Sequencial/RETANGULO.ALG">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">8</td>
                 <td>Soma</td>
-                <td><a href="https://github.com/lucas8calderon/Logica_de_Programacao/blob/main/Pasta%203/Soma.md">Código</a></td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Estrutura%20Sequencial/SOMA.ALG">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">9</td>
                 <td>Terreno</td>
-                <td><a href="https://github.com/lucas8calderon/Logica_de_Programacao/blob/main/Pasta%203/Terreno.md">Código</a></td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Estrutura%20Sequencial/TERRENO.ALG">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">10</td>
                 <td>Troco</td>
-                <td><a href="https://github.com/lucas8calderon/Logica_de_Programacao/blob/main/Pasta%203/Troco.md">Código</a></td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Estrutura%20Sequencial/TROCO.ALG">Código</a></td>
                 <td align="center">✅</td>
                       </tr>
                 </table>
