@@ -1,0 +1,41 @@
+Algoritmo "duração"
+
+    //        Leia a hora inicial e a hora final de um jogo. A seguir calcule a duração do jogo, sabendo que o mesmo
+// pode começar em um dia e terminar em outro, tendo uma duração mínima de 1 hora e máxima de 24
+// horas.
+
+
+Var
+
+         horaInicial, horaFinal, duracao : real
+
+
+
+
+Inicio
+
+
+   escreva("Hora Inicial: ")
+     leia(horaInicial)
+     
+   escreva("Hora Final: ")
+     leia(horaFinal)
+     
+     
+     se horaInicial < horaFinal entao
+      duracao <- horaFinal - horaInicial
+      
+     senao
+       duracao <- 24 - horaInicial + horaFinal
+       
+       fimse
+       
+       escreval("O jogo durou: ", duracao, " Hora(s)")
+
+
+             
+
+
+
+
+Fimalgoritmo
