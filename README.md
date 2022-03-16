@@ -98,62 +98,62 @@ Dando inicio aos estudos, resolvi separar por categorias os meus avanços nos es
             </tr>
             <tr>
                 <td align="center">1</td>
-                <td>Baskara</td>
-                <td><a href="https://github.com/lucas8calderon/Logica_de_Programacao/blob/main/Pasta%202/Baskara.md">Código</a></td>
+                <td>Notas</td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Estrutura%20Condicional/NOTAS.ALG">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Aumento Salario</td>
-                <td><a href="https://github.com/lucas8calderon/Logica_de_Programacao/blob/main/Pasta%202/Salario.md">Código</a></td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Estrutura%20Condicional/AUMENTO.ALG">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Quadrante</td>
-                <td><a href="https://github.com/lucas8calderon/Logica_de_Programacao/blob/main/Pasta%202/Quadrante.md">Código</a></td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Estrutura%20Condicional/COORDENADAS.ALG">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                      <td align="center">4</td>
                 <td>Glicose</td>
-                <td><a href="https://github.com/lucas8calderon/Logica_de_Programacao/blob/main/Pasta%202/Glicose.md">Código</a></td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Estrutura%20Condicional/GLICOSE.ALG">Código</a></td>
                 <td align="center">✅</td>
               </tr>
             <tr>
                 <td align="center">5</td>
                 <td>Multiplos</td>
-                <td><a href="https://github.com/lucas8calderon/Logica_de_Programacao/blob/main/Pasta%202/Multiplos.md">Código</a></td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Estrutura%20Condicional/MULTIPLOS.ALG">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">6</td>
-                <td>Notas</td>
-                <td><a href="https://github.com/lucas8calderon/Logica_de_Programacao/blob/main/Pasta%202/Notas.md">Código</a></td>
+                <td>Menor de Tres</td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Estrutura%20Condicional/MENOR_DE_TRES.ALG">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">7</td>
                 <td>Operadora</td>
-                <td><a href="https://github.com/lucas8calderon/Logica_de_Programacao/blob/main/Pasta%202/Operadora.md">Código</a></td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Estrutura%20Condicional/OPERADORA.ALG">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">8</td>
                 <td>Tempo de Jogo</td>
-                <td><a href="https://github.com/lucas8calderon/Logica_de_Programacao/blob/main/Pasta%202/Tempo_Jogo.md">Código</a></td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Estrutura%20Condicional/DURACAO.ALG">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">9</td>
                 <td>Troco</td>
-                <td><a href="https://github.com/lucas8calderon/Logica_de_Programacao/blob/main/Pasta%202/Troco.md">Código</a></td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Estrutura%20Condicional/TROCO_VERIFICADO.ALG">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">10</td>
-                <td>Teste Condicional</td>
-                <td><a href="https://github.com/lucas8calderon/Logica_de_Programacao/blob/main/Pasta%202/Tempo_Jogo.md">Código</a></td>
+                <td>Temperatura</td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Estrutura%20Condicional/TEMPERATURA.ALG">Código</a></td>
                 <td align="center">✅</td>
                   </tr>
                 </table>
