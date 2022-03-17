@@ -309,3 +309,159 @@ Dando inicio aos estudos, resolvi separar por categorias os meus avanços nos es
                 <td align="center">✅</td>
                 
                 
+                
+      
+<details>
+    <summary><strong></strong></summary>
+    <br />
+    <div align="left">
+        <!-- Vetores -->
+        <table border=1>
+            <tr>
+                <th colspan="4">Vetores</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>Etapa</th>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td align="center">1</td>
+                <td>Abaixo da Media</td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Vetores/ABAIXO_DA_MEDIA.ALG">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+               <tr>
+                <td align="center">2</td>
+                <td>Aprovados</td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Vetores/APROVADOS.ALG">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">3</td>
+                <td>Alturas</td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Vetores/ALTURAS.ALG">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                     <td align="center">4</td>
+                <td>Comerciante</td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Vetores/COMERCIANTE.ALG">Código</a></td>
+                <td align="center">✅</td>
+              </tr>
+            <tr>
+                <td align="center">5</td>
+                <td>Maior Posição</td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Vetores/MAIOR_POSICAO.ALG">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">6</td>
+                <td>Media Pares</td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Vetores/MEDIA_PARES.ALG">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">7</td>
+                <td>Operadora</td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Estrutura%20Condicional/OPERADORA.ALG">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">8</td>
+                <td>Negativos</td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Vetores/NEGATATIVOS.ALG">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">9</td>
+                <td>Soma de Vetores</td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Vetores/SOMA_VETOR.ALG">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">10</td>
+                <td>Mais Velho</td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Vetores/MAIS_VELHO.ALG">Código</a></td>
+                <td align="center">✅</td>
+                
+                
+      
+ 
+
+<details>
+    <summary><strong></strong></summary>
+    <br />
+    <div align="left">
+        <!-- Ordenação e Filtros em Java -->
+        <table border=1>
+            <tr>
+                <th colspan="4">Matriz</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>Etapa</th>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td align="center">1</td>
+                <td>Diagonal Acima</td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Matrizes/ACIMA_DIAGONAL.ALG">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">2</td>
+                <td>Cada Linha</td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Matrizes/CADA_LINHA.ALG">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">3</td>
+                <td>Diagonal Negativos</td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Matrizes/DIAGONAL_NEGATIVOS.ALG">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">4</td>
+                <td>Matriz Geral</td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Matrizes/MATRIZ_GERAL.ALG">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">5</td>
+                <td>Negativos Matriz</td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Matrizes/NEGATIVOS_MATRIZ.ALG">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+        <tr>
+            <td align="center">6</td>
+                <td>Soma Linhas</td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Matrizes/SOMA_LINHAS.ALG">Código</a></td>
+                <td align="center">✅</td>
+               </tr>
+        <tr>
+                  <td align="center">7</td>
+                <td>Soma Matrizes</td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Matrizes/SOMA_MATRIZES.ALG">Código</a></td>
+                <td align="center">✅</td>
+               </tr>
+        <tr>
+                  <td align="center">8</td>
+                <td>Teste Matriz</td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Matrizes/TESTE_MATRIZ.ALG">Código</a></td>
+                <td align="center">✅</td>
+       
+       
+            
+            
+                
+            
+ 
