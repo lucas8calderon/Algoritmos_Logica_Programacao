@@ -251,61 +251,61 @@ Dando inicio aos estudos, resolvi separar por categorias os meus avanços nos es
             <tr>
                 <td align="center">1</td>
                 <td>Crescente</td>
-                <td><a href="https://lucas8calderon.github.io/Portfolio/">Código</a></td>
-                <td align="center">:clock10:</td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Estrutura%20Repetitivas/CRESCENTE_DECRESCENTE.ALG">Código</a></td>
+                <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">2</td>
-                <td>Divisão</td>
-                <td><a href="https://lucas8calderon.github.io/Portfolio/">Código</a></td>
-                <td align="center">:clock10:</td>
+                <td>Tabuada</td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Estrutura%20Repetitivas/TABUADA.ALG">Código</a></td>
+                <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Senha Fixa</td>
-                <td><a href="https://lucas8calderon.github.io/Portfolio/">Código</a></td>
-                <td align="center">:clock10:</td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Estrutura%20Repetitivas/SENHA_FIXA.ALG">Código</a></td>
+                <td align="center">✅</td>
             </tr>
             <tr>
                      <td align="center">4</td>
-                <td>Combustivel</td>
-                <td><a href="https://lucas8calderon.github.io/Portfolio/">Código</a></td>
-                <td align="center">:clock10:</td>
+                <td>Teste Enquanto</td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Estrutura%20Repetitivas/TESTE_ENQUANTO.ALG/">Código</a></td>
+                <td align="center">✅</td>
               </tr>
             <tr>
                 <td align="center">5</td>
                 <td>Número Par</td>
-                <td><a href="https://lucas8calderon.github.io/Portfolio/">Código</a></td>
-                <td align="center">:clock10:</td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Estrutura%20Repetitivas/SOMA_IMPARES.ALG">Código</a></td>
+                <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">6</td>
-                <td>Tabuada</td>
-                <td><a href="https://lucas8calderon.github.io/Portfolio/">Código</a></td>
-                <td align="center">:clock10:</td>
+                <td>Notas</td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Estrutura%20Repetitivas/VALIDACAO_DE_NOTA.ALG">Código</a></td>
+                <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">7</td>
-                <td>Média Ponderada</td>
-                <td><a href="https://lucas8calderon.github.io/Portfolio/">Código</a></td>
-                <td align="center">:clock10:</td>
+                <td>Reptia Até</td>
+                <td><a href="https://github.com/lucas8calderon/Algoritmos_Logica_Programacao/blob/main/Estrutura%20Repetitivas/REPITA_ATE.ALG">Código</a></td>
+                <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">8</td>
                 <td>Divisão</td>
                 <td><a href="https://lucas8calderon.github.io/Portfolio/">Código</a></td>
-                <td align="center">:clock10:</td>
+                <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">9</td>
                 <td>Fatorial</td>
                 <td><a href="https://lucas8calderon.github.io/Portfolio/">Código</a></td>
-                <td align="center">:clock10:</td>
+                <td align="center">✅</td>
             </tr>
             <tr>
                 <td align="center">10</td>
                 <td>Experiencias</td>
                 <td><a href="https://lucas8calderon.github.io/Portfolio/">Código</a></td>
-                <td align="center">:clock10:</td>
+                <td align="center">✅</td>
                 
                 
